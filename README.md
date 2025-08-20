@@ -40,6 +40,13 @@ My goal is to combine my **business knowledge** with **data science and machine 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Llinvile&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Llinvile&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
 ## 🎯 Career Goals  
 
 I aim to grow into a **Data Scientist / Machine Learning Engineer** role, specializing in applying data-driven solutions to business and financial problems.  
