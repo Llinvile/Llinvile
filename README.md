@@ -39,4 +39,20 @@ My goal is to combine my **business knowledge** with **data science and machine 
 ![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
--->
+---
+## 🎯 Career Goals  
+
+I aim to grow into a **Data Scientist / Machine Learning Engineer** role, specializing in applying data-driven solutions to business and financial problems.  
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/llinvile-de-jongh-853742248/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dllinvile@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/llinviledejongh)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Llinvile&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
