@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Llinvile de Jongh
 
-### 🚀 Graduate Data Scientist 
-🚀 **Data Scientist | Business Management Graduate | Machine Learning Enthusiast**  
+### Graduate Data Scientist 
+**Data Scientist | Business Management Graduate | Machine Learning Enthusiast**  
 📍 Based in Cape Town, South Africa | 💼 Currently working at Sanlam
 ---
 
