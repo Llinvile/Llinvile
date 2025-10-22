@@ -11,14 +11,8 @@ I am a **Data Scientist** with a background in **Business Management** and a **D
 Additionally, I have completed a **Mathematics for Data Science Skills Certificate (Coursera)** to strengthen my foundation in statistics, probability, and linear algebra.  
 
 My goal is to combine my **business knowledge** with **data science and machine learning** to build data-driven solutions that solve real-world problems.
-
-
-### 🔄 Current Project  
-- **[Home Credit Default Risk (Kaggle)](https://www.kaggle.com/competitions/home-credit-default-risk)**  
-  - Building predictive models to assess loan repayment probability.  
-  - Applying feature engineering, EDA, and advanced machine learning algorithms.
  
-  ---
+---
 ## 🔧 Tech Stack  
 ### **Programming & Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
