@@ -6,9 +6,11 @@
 
 ## 🧑‍🎓 About Me  
 
-**Data Science & Analytics professional skilled in Python, SQL, and predictive modelling, with a strong focus on financial and operational datasets.  
-I build end-to-end analytical solutions that combine clear insights, business-friendly reporting, and interactive dashboards for non-technical stakeholders.  
-Currently developing polished churn and credit-risk case studies designed for real-world decision-making and recruiter review.**
+**Data Science & Analytics professional skilled in Python, SQL, and predictive modelling, with a strong focus on financial and operational datasets.**
+
+**I build end-to-end analytical solutions that combine clear insights, business-friendly reporting, and interactive dashboards for non-technical stakeholders.**
+
+**Currently developing polished churn and credit-risk case studies designed for real-world decision-making and recruiter review.**
  
 ---
 
