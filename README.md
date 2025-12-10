@@ -36,12 +36,10 @@ Currently developing polished churn and credit-risk case studies designed for re
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llinvile&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=llinvile&theme=radical" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=llinvile&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llinvile&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 ## 🎯 Career Goals  
