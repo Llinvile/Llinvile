@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm **Llinvile de Jongh**
 
 ### **Data Scientist | Data Analyst | Financial Data Enthusiast** 
-📍 Based in Cape Town, South Africa | 💼 Currently working at Sanlam
+
 ---
 
 ## 🧑‍🎓 About Me  
