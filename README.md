@@ -46,8 +46,7 @@
 ---
 ## 🎯 Career Goals  
 
-To build a strong career in **Data Science and Data Analytics**, using data to drive insights, predictive modelling,  
-and business decision-making within financial services, banking, insurance, and customer-focused environments.
+To build a strong career in **Data Science and Data Analytics**, using data to drive insights, predictive modelling, and business decision-making within financial services, banking, insurance, and customer-focused environments.
 
 ---
 
