@@ -10,7 +10,7 @@
 
 **I build end-to-end analytical solutions that combine clear insights, business-friendly reporting, and interactive dashboards for non-technical stakeholders.**
 
-**Currently developing polished churn and credit-risk case studies designed for real-world decision-making and recruiter review.**
+**Building a Fraud Detection analytics case study using synthetic financial transaction data, applying SQL analysis and Power BI dashboards to uncover suspicious transaction patterns.**
  
 ---
 
@@ -34,6 +34,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### **Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
