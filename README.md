@@ -1,16 +1,18 @@
 ## Hi there 👋, I'm **Llinvile de Jongh**
 
-### **Data Scientist | Data Analyst | Financial Data Enthusiast** 
+### **Data Analyst | Risk & Fraud Analyst | Credit Risk Enthusiast | Financial Data Enthusiast** 
 
 ---
 
 ## 🧑‍🎓 About Me  
 
-**Data Science & Analytics professional skilled in Python, SQL, and predictive modelling, with a strong focus on financial and operational datasets.**
+**I am a Data Analyst with hands-on experience in Python, SQL, and Power BI, with a focus on financial, risk, and operational datasets. I transform complex data into actionable insights, dashboards, and reports that help businesses make informed decisions.**
 
 **I build end-to-end analytical solutions that combine clear insights, business-friendly reporting, and interactive dashboards for non-technical stakeholders.**
 
-**Building a Fraud Detection analytics case study using synthetic financial transaction data, applying SQL analysis and Power BI dashboards to uncover suspicious transaction patterns.**
+**Currently developing a Fraud Detection analytics case study with synthetic financial transaction data — leveraging SQL for deep analysis and Power BI dashboards to uncover suspicious patterns and emerging trends.**
+
+**My goal is to apply data-driven solutions in banking, insurance, and financial services, helping organizations mitigate risk and optimize operations.**
  
 ---
 
@@ -47,7 +49,7 @@
 ---
 ## 🎯 Career Goals  
 
-To build a strong career in **Data Science and Data Analytics**, using data to drive insights, predictive modelling, and business decision-making within financial services, banking, insurance, and customer-focused environments.
+I aim to build a strong career as a **Data Analyst, Risk Analyst, or Fraud/Credit Risk Analyst**, delivering data-driven solutions that **reduce financial risks, detect fraud, and optimize business decisions** in banking, insurance, and financial services.
 
 ---
 
